@@ -69,7 +69,7 @@ Predict spam or non-spam for user input
 
 ▶️ How to Run the Project
 Step 1: Clone the Repository
-git clone https://github.com/govi-78/spam-classification.git
+git clone github.com/govi-78/Spam-detector
 cd spam-classification
 
 Step 2: Install Dependencies
